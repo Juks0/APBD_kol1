@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kolokwium_s27662")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3af0e0159086bdbe0cdf910b58193fae15c0f9c6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49441d7b09efd09d1a949f359896d7a29b8846f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kolokwium_s27662")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kolokwium_s27662")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
